@@ -12,7 +12,7 @@
         
         Main.cpp : The whole code source of program
         
-        
+        Parts : The runnable code for several algorithm in the project 
 
 *Author : 
     [Evintkoo ,
