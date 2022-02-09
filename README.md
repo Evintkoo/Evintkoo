@@ -2,11 +2,11 @@
 
 **Project Details**
     
-    Project Title : Marcs
+    Project Title : Simple Photo Math
     
     Production Year : 2021
     
-    Description :
+    Description : This is a projects with many mathematic calculation such as solving quadratic function, etc
 
 *Author : 
     [Evintkoo ,
