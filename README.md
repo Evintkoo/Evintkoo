@@ -1,3 +1,13 @@
-- 👋 Hi, I’m @Evintkoo
+***Hi, I’m @Evintkoo***
 
-this is a C++ project for final assesment 2021
+**Project Details**
+    
+    Project Title : Marcs
+    
+    Production Year : 2021
+    
+    Description :
+
+*Author : 
+    [Evintkoo ,
+    Julio Vincent Sugiarto]*
