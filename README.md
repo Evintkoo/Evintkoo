@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Evintkoo
 
-
-<!---
-MWEHEHEHEHEHEE
---->
+this is a C++ project for final assesment 2021
