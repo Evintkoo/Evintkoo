@@ -9,7 +9,11 @@
   
     Description : This is a door lock system project with mask detector and people counter as the parameter of the door status
     
+    Explanation :
     
+        Marcs-GUI-main : The main program with GUI
+        
+        Marcs-main : Beta version (no GUI)
 
 **Author :
   Evintkoo ; 
