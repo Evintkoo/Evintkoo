@@ -15,8 +15,8 @@
         
         Marcs-main : Beta version (no GUI)
 
-**Author :
-  Evintkoo ; 
+*Author :
+  [Evintkoo ; 
   UnoArroefy ; 
   Aretha Putri ; 
-  Januar Excel ;**
+  Januar Excel ;]*
